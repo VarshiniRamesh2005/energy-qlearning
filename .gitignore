@@ -1,0 +1,17 @@
+# Ignore dataset file
+household_power_consumption.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment (if any)
+venv/
+env/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
